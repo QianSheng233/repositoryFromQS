@@ -1,2 +1,2 @@
 # repositoryFromQS
-the projects Qs has downloaded on GitHub
+the projects Qs has downloaded on GitHub.
